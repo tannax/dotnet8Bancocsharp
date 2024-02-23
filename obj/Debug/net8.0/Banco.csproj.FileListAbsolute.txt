@@ -1,0 +1,14 @@
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.AssemblyInfoInputs.cache
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.AssemblyInfo.cs
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.csproj.CoreCompileInputs.cache
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/bin/Debug/net8.0/Banco
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/bin/Debug/net8.0/Banco.deps.json
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/bin/Debug/net8.0/Banco.runtimeconfig.json
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/bin/Debug/net8.0/Banco.dll
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/bin/Debug/net8.0/Banco.pdb
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.dll
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/refint/Banco.dll
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.pdb
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/Banco.genruntimeconfig.cache
+/home/krux/Documents/Progamming/aspnetCoreProjects/Banco/obj/Debug/net8.0/ref/Banco.dll
